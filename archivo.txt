@@ -1,1 +1,4 @@
 primer archivo para repositorio
+
+modificación para enviar commit2 
+sigo escribiendo
